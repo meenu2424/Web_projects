@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Search for an "e" in the next paragraph:</p>
+<p id="p01">The best things in life are free!</p>
+<button onclick="myFunction()">Try It !!</button>
+    <p id="demo"></p>
+    <script>
+    function myFunction(){
+     text=document.getElementById("p01").innerHTML;
+        document.getElementById("demo").innerHTML= /e/.exec(text);
+    }
+     </script>
+    </body>
+</html>

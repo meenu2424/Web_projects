@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Replace "microsoft" with "W3Schools" in the paragraph below:</p>
+
+<button onclick="myFunction()">Try it</button>
+<p id="demo">Please Visit MicroSoft </p>
+<script>
+    function myFunction(){
+        var str="Please Visit W3Schools ";
+        var txt=str.replace(/microsoft/i,"W3Schools");
+        document.getElementById("demo").innerHTML=txt;
+        
+    }
+    
+    
+    </script>

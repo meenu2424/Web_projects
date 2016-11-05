@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parellel="tests">
+<test name="FirefoxTest">
+<parameter name="browser" value="Firefox" />
+<classes>
+        <class name="com.TestNG.TestNGClass" />       
+        </classes>
+        </test>
+        
+        <test name="ChormeTest">
+        <parameter name="browser" value="chrome" />
+        <classes>
+        <class name="com.TestNG.TestNGClass" />  
+        </classes>
+        </test> 
+ <test name="IETest">
+ <parameter name="browser" value="ie"></parameter>
+ <classes>
+ <class name="com.TestNG.TestNGClass"></class>
+ </classes>
+ </test>
+ </suite>

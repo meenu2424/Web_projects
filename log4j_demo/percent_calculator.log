@@ -1,0 +1,30 @@
+2015-11-18 22:59:36  [log4j_demo.Log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2015-11-18 22:59:36  [log4j_demo.Log4j_demo] (main:) TEST Has Started
+2015-11-18 23:00:24  [log4j_demo.Log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2015-11-18 23:00:24  [log4j_demo.Log4j_demo] (main:) TEST Has Started
+2015-11-18 23:07:45  [log4j_demo.Log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2015-11-18 23:07:45  [log4j_demo.Log4j_demo] (main:) TEST Has Started
+2015-11-18 23:20:12  [log4j_demo.Log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2015-11-18 23:20:12  [log4j_demo.Log4j_demo] (main:) TEST Has Started
+2015-11-18 23:22:44  [log4j_demo.Log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2015-11-18 23:22:44  [log4j_demo.Log4j_demo] (main:) TEST Has Started
+2015-11-18 23:25:06  [log4j_demo.log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2015-11-18 23:25:06  [log4j_demo.log4j_demo] (main:) TEST Has Started
+2015-11-18 23:25:06  [log4j_demo.log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2015-11-18 23:25:06  [log4j_demo.log4j_demo] (main:) TEST Has Started
+2015-11-18 23:25:21  [log4j_demo.log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2015-11-18 23:25:21  [log4j_demo.log4j_demo] (main:) TEST Has Started
+2015-11-18 23:28:43  [log4j_demo.log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2015-11-18 23:28:43  [log4j_demo.log4j_demo] (main:) TEST Has Started
+2015-11-18 23:28:54  [log4j_demo.log4j_demo] (main:) Open Calc Application
+2015-11-18 23:28:55  [log4j_demo.log4j_demo] (main:) Click Math Calculator
+2015-11-18 23:28:56  [log4j_demo.log4j_demo] (main:) Click Percent Calculator
+2015-11-18 23:28:57  [log4j_demo.log4j_demo] (main:) Entered Value in The First Text Box
+2015-11-18 23:28:57  [log4j_demo.log4j_demo] (main:) Entered Value in The Second Text Box
+2015-11-18 23:28:57  [log4j_demo.log4j_demo] (main:) Click Calculate Button
+2015-11-18 23:28:58  [log4j_demo.log4j_demo] (main:) Get Text Value
+2015-11-18 23:28:58  [log4j_demo.log4j_demo] (main:) The Result is 5
+2015-11-18 23:28:58  [log4j_demo.log4j_demo] (main:) The Result is Pass
+2015-11-18 23:28:58  [log4j_demo.log4j_demo] (main:) # # # # # # # # # # # # # # # # # # #
+2016-04-14 18:02:10  [log4j_demo.log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2016-04-14 18:02:10  [log4j_demo.log4j_demo] (main:) TEST Has Started
