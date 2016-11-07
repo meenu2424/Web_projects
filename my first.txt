@@ -1,3 +1,6 @@
 my first git file 
 
 hello meen
+
+before it comes to file one
+
